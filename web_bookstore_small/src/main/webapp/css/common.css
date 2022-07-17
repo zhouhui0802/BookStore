@@ -1,0 +1,26 @@
+@CHARSET "UTF-8";
+* {
+	font-size: 20px;
+}
+
+table {
+	border: 1px solid gray;
+	border-collapse: collapse;
+}
+
+td {
+	border: 1px solid gray;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:HOVER {
+	color: #ff0000;
+	font-weight: bolder;
+}
+
+input.txt {
+	width: 100%;
+}

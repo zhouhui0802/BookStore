@@ -1,0 +1,16 @@
+table {
+	border-collapse: collapse;
+}
+
+td {
+	border: 1px solid;
+}
+
+* {
+	font-size: 20px;
+}
+#head {
+	background-color: #00ffff;
+	height: 40px;
+	text-align: center;
+}

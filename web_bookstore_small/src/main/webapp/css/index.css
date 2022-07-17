@@ -1,0 +1,46 @@
+* {
+	font-size: 20px;
+}
+
+body {
+	width: 100%;
+	height: 800px;
+}
+
+#top {
+	width: 100%;
+	height: 10%;
+	background-color: #00EE00;
+	padding: 5px;
+}
+
+#title {
+	text-align: center;
+	font-size: 30px;
+}
+
+#down {
+	width: 100%;
+	height: 90%;
+}
+
+#left {
+	width: 20%;
+	height: 100%;
+	float: left;
+}
+
+#right {
+	width: 80%;
+	height: 100%;
+	float: right;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:HOVER {
+	font-size: 22px;
+	color: #ff0000;
+}
